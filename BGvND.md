@@ -1,6 +1,3 @@
-layout: page
-title: "BGvND"
-permalink: /BGvND/
 <!DOCTYPE html>
 <title>Text Example</title>
 <style>
