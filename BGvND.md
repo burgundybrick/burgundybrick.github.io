@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <title>Text Example</title>
 <style>
 div.container {
