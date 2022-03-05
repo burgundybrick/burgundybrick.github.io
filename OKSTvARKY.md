@@ -1,6 +1,3 @@
-layout: page
-title: "OKSTvARKY"
-permalink: /OKSTvARKY/
 <!DOCTYPE html>
 <title>Text Example</title>
 <style>
