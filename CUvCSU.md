@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+layout: page
+title: "CUvCSU"
+permalink: /CUvCSU/
 <title>Text Example</title>
 <style>
 div.container {
